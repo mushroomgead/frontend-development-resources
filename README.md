@@ -1,6 +1,6 @@
 # frontend-development-resources
 ## TABLE OF CONTENTS
-[Frontend Framework] (./frontend-framework)
+[Frontend Framework] (./frontend-framework)\r
 [React Components] (./react-components)
 [Fonts] (./fonts)
 [others] (./others)
